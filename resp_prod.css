@@ -16,7 +16,7 @@
     nav{
         margin-top: 0px;;
         display:flex;
-        margin-left:-120px;
+        margin-left:-140px;
         width:140%;
     }
     nav ul,.right-nav{
@@ -51,7 +51,7 @@
         border-radius: 50%;
         width: 46%;
         height: 46%;
-        margin-top:20%;
+        margin-top:25%;
         margin-left: 0%;
       }
       .white-box p{
